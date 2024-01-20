@@ -9,10 +9,10 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
-using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using IdentityServer4.Configuration;
+using System.IdentityModel.Tokens.Jwt;
 
 namespace IdentityServer4.Extensions
 {
